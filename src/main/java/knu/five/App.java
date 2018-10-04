@@ -15,6 +15,11 @@ public class App {
     // 이름 나이를 포함해서 소개한다.
     public static void hoyoung(){
 
+	    System.out.println(" 이름 : 심호용");
+	    System.out.println(" 나이 : 25 ");
+	    System.out.println(" 학번 : 201411176 ");
+	    System.out.println(" 학과 : 컴퓨터정보통신공학과");
+
     }
     public static void juhwan(){
 
