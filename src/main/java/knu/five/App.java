@@ -28,6 +28,6 @@ public class App {
 
     }
     public static void shinhyuk() {
-
+	System.out.println("My name is OhShinhyeok!");
     }
 }
