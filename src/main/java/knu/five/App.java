@@ -10,5 +10,6 @@ public class App
     {
         System.out.println( "Hello 5Jo!" );
 	System.out.println( "Shinhyeok Commit!");
+	System.out.println( "branch Merge gogo!");
     }
 }
